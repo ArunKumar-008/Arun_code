@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 <customer>
 	<name>ArunKumar</name>
 	<state>TamilNadu</state>
 	<age>22</age>
 </customer>
 
+=======
+<product>
+	<name>SmartPhone</name>
+	<price>17000</price>
+</product>
+>>>>>>> Gitwork
